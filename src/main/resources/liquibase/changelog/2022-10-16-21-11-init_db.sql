@@ -1,0 +1,2 @@
+--liquibase formatted sql
+--changeset HugoDorne:1
